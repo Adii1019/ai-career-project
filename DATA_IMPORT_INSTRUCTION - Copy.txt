@@ -1,0 +1,11 @@
+I am adding new Kaggle datasets to improve my AI Career Recommendation System.
+Please integrate all the datasets I uploaded (ZIP files) into the project.
+Create a clean folder called data/kaggle/ and place the extracted CSV files inside it.
+
+Do NOT replace or modify the existing data files in data/.
+Just add new files separately in data/kaggle/.
+
+After uploading, load the CSV files using a new helper function (like loadKaggleData) and make sure the main project does not break.
+Only integrate them as optional additional data sources.
+
+Keep the project structure safe and unchanged.

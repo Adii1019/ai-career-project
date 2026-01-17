@@ -1,0 +1,5 @@
+{
+  "name": "AI Career Recommendation",
+  "description": "An intelligent career recommendation tool that analyzes your academic profile, skills, and interests to suggest personalized career paths, identify skill gaps, and propose tailored learning journeys.",
+  "requestFramePermissions": []
+}
